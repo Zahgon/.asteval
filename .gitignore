@@ -1,13 +1,6 @@
-*.pyc
 *~
 *#
-.coverage
-asteval/version.py
+*.test
+*.out
+/coverage*
 NonGit/
-doc/_build
-doc/*.pdf
-build
-dist
-*.egg-info
-
-MANIFEST
